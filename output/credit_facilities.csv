@@ -1,0 +1,14 @@
+Company,Ticker,Sector,Facility Type,Facility Name,Size ($M),Tenor (Months),Maturity Date,Pricing Base,Margin (bps),Commitment Fee (bps),Drawn ($M),Lead Arrangers,Admin Agent,Status,Source
+Enterprise Products Partners,EPD,midstream,revolving_credit,364-Day Revolving Credit Agreement,"$1,500M",12,2027-03-26,SOFR,,,,"Citibank, Wells Fargo, JPMorgan, Mizuho, MUFG, Barclays, RBC, SMBC, TD Securities, Scotiabank, Truist Securities","Citibank, N.A.",active,SEC filing / 8-K
+Canadian Natural Resources,CNQ,integrated,revolving_credit,Revolving Credit Facility,$500M,36,2027-06-30,SOFR,,,,,,active,2025 Q4 Interim Report
+Enbridge,ENB,midstream,revolving_credit,364-Day Extendible Credit Facility,"$8,800M",12,2027-07-31,SOFR,,,,,,active,Q3 2025 Financial Statements
+Enbridge,ENB,midstream,revolving_credit,Enbridge Gas 364-Day Extendible Facility,"$2,500M",12,2027-07-31,SOFR,,,,,,active,Q3 2025 Financial Statements
+Enbridge,ENB,midstream,revolving_credit,Enbridge Pipelines 364-Day Extendible Facility,"$2,000M",12,2027-07-31,SOFR,,,,,,active,Q3 2025 Financial Statements
+Cenovus Energy,CVE,integrated,revolving_credit,Committed Revolving Credit Facility - Tranche B,"$2,200M",24,2028-09-19,SOFR,,,,,,active,S&P Ratings / SEC Filing
+Suncor Energy,SU,integrated,revolving_credit,Syndicated Revolving Credit Facility,"$5,219M",36,2028-12-31,SOFR,,,,,,active,2025 Annual Report / Fitch Ratings
+Canadian Natural Resources,CNQ,integrated,revolving_credit,Revolving Syndicated Credit Facility,"$2,565M",60,2029-06-30,SOFR,,,,,,active,2025 Q4 Interim Report / SEC filing
+Cenovus Energy,CVE,integrated,revolving_credit,Committed Revolving Credit Facility - Tranche A,"$3,300M",36,2029-09-19,SOFR,,,,,,active,SEC Filing / Q1 2026 MD&A
+Enbridge,ENB,midstream,revolving_credit,Five-Year Revolving Credit Facility,"$7,800M",60,2030-07-31,SOFR,,,,,,active,Q3 2025 Financial Statements
+TC Energy,TRP,midstream,revolving_credit,Committed Revolving & Demand Credit Facilities,"$11,800M",,,,,,,,,active,SEC Filing / 2025 MD&A
+Range Resources,RRC,upstream,revolving_credit,Credit Facility,$118M,,,,,,,,,active,Q4 2025 Press Release
+Canadian Natural Resources,CNQ,integrated,term_loan,Non-Revolving Term Credit Facility,"$4,000M",,,SOFR,,,,,,active,2025 Q4 Financial Statements

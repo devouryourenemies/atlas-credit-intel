@@ -1,0 +1,80 @@
+Company Name,Ticker,HQ City,HQ State/Prov,Country,Sector,Subsector,Public/Private,PE Backing,EBITDA ($M),EBITDA Year,Revenue ($M),Total Debt ($M),Market Cap ($M),Enterprise Value ($M),Credit Rating,Rating Agency
+ExxonMobil,XOM,Spring,TX,US,integrated,integrated_oil,public,,"$56,010,000,000",TTM 2025,"$326,010,000,000","$47,660,000,000","$649,720,000,000","$697,380,000,000",AA-,S&P
+Chevron,CVX,Houston,TX,US,integrated,integrated_oil,public,,"$37,910,000,000",TTM 2025,"$185,740,000,000","$45,430,000,000","$382,110,000,000","$427,540,000,000",AA-,S&P
+ConocoPhillips,COP,Houston,TX,US,upstream,exploration_production,public,,"$23,350,000,000",TTM 2025,"$59,380,000,000","$23,330,000,000","$143,830,000,000","$167,160,000,000",A-,S&P
+Energy Transfer,ET,Dallas,TX,US,midstream,pipelines_midstream,public,,"$15,700,000,000",TTM 2025,"$92,290,000,000","$71,110,000,000","$69,510,000,000","$140,620,000,000",BBB-,S&P
+Canadian Natural Resources,CNQ,Calgary,AB,CA,integrated,integrated_oil,public,,"$14,800,000,000",TTM 2025,"$38,630,000,000",,,,BBB+,S&P
+Enterprise Products Partners,EPD,Houston,TX,US,midstream,pipelines_midstream,public,,"$9,790,000,000",TTM 2025,"$51,560,000,000","$34,380,000,000","$83,660,000,000","$118,040,000,000",BBB+,S&P
+Kinder Morgan,KMI,Houston,TX,US,midstream,pipelines_midstream,public,,"$7,630,000,000",TTM 2025,"$17,960,000,000","$32,430,000,000","$70,920,000,000","$103,350,000,000",BBB,S&P
+ONEOK,OKE,Tulsa,OK,US,midstream,pipelines_midstream,public,,"$7,510,000,000",TTM 2025,"$35,200,000,000","$33,650,000,000","$56,700,000,000","$90,350,000,000",BBB,S&P
+Williams Companies,WMB,Tulsa,OK,US,midstream,pipelines_midstream,public,,"$6,820,000,000",TTM 2025,"$12,110,000,000","$30,300,000,000","$85,770,000,000","$116,070,000,000",BBB,S&P
+MPLX,MPLX,Findlay,OH,US,midstream,pipelines_midstream,public,,"$6,000,000,000",TTM 2025,"$11,740,000,000","$26,130,000,000","$58,640,000,000","$84,770,000,000",BBB,S&P
+Targa Resources,TRGP,Houston,TX,US,midstream,pipelines_midstream,public,,"$5,220,000,000",TTM 2025,"$16,560,000,000","$19,130,000,000","$56,810,000,000","$75,940,000,000",BBB-,S&P
+EOG Resources,EOG,Houston,TX,US,upstream,exploration_production,public,,,,,,,,,
+Phillips 66,PSX,Houston,TX,US,downstream,refining_marketing,public,,,,,,,,,
+Valero Energy,VLO,San Antonio,TX,US,downstream,refining_marketing,public,,,,,,,,,
+Marathon Petroleum,MPC,Findlay,OH,US,downstream,refining_marketing,public,,,,,,,,,
+Devon Energy,DVN,Oklahoma City,OK,US,upstream,exploration_production,public,,,,,,,,,
+Diamondback Energy,FANG,Midland,TX,US,upstream,exploration_production,public,,,,,,,,,
+Coterra Energy,CTRA,Houston,TX,US,upstream,exploration_production,public,,,,,,,,,
+EQT Corporation,EQT,Pittsburgh,PA,US,upstream,natural_gas,public,,,,,,,,,
+Chesapeake Energy,CHK,Oklahoma City,OK,US,upstream,natural_gas,public,,,,,,,,,
+Suncor Energy,SU,Calgary,AB,CA,integrated,integrated_oil,public,,,2025,,"$6,337,000,000",,,BBB+,S&P
+Imperial Oil,IMO,Calgary,AB,CA,integrated,integrated_oil,public,,,,,,,,AA-,S&P
+Enbridge,ENB,Calgary,AB,CA,midstream,pipelines_midstream,public,,,,,,,,BBB+,S&P
+TC Energy,TRP,Calgary,AB,CA,midstream,pipelines_midstream,public,,,,,,,,BBB+,S&P
+Cenovus Energy,CVE,Calgary,AB,CA,integrated,integrated_oil,public,,,,,,,,BBB-,S&P
+Tourmaline Oil,TOU,Calgary,AB,CA,upstream,natural_gas,public,,,,,,,,,
+Arc Resources,ARX,Calgary,AB,CA,upstream,exploration_production,public,,,,,,,,,
+Pembina Pipeline,PPL,Calgary,AB,CA,midstream,pipelines_midstream,public,,,,,,,,BBB+,S&P
+Keyera Corp,KEY,Calgary,AB,CA,midstream,gathering_processing,public,,,,,,,,BBB,S&P
+Whitecap Resources,WCP,Calgary,AB,CA,upstream,exploration_production,public,,,,,,,,,
+PrairieSky Royalty,PSK,Calgary,AB,CA,midstream,royalty,public,,,,,,,,,
+Vermilion Energy,VET,Calgary,AB,CA,upstream,exploration_production,public,,,,,,,,,
+Baytex Energy,BTE,Calgary,AB,CA,upstream,exploration_production,public,,,,,,,,,
+Peyto Exploration & Development,PEY,Calgary,AB,CA,upstream,natural_gas,public,,,,,,,,,
+MEG Energy,MEG,Calgary,AB,CA,upstream,oil_sands,public,,,,,,,,,
+NuVista Energy,NVA,Calgary,AB,CA,upstream,exploration_production,public,,,,,,,,,
+Birchcliff Energy,BIR,Calgary,AB,CA,upstream,natural_gas,public,,,,,,,,,
+Gibson Energy,GEI,Calgary,AB,CA,midstream,pipelines_midstream,public,,,,,,,,,
+Secure Energy Services,SES,Calgary,AB,CA,oilfield_services,waste_management,public,,,,,,,,,
+CrownRock,,Midland,TX,US,upstream,exploration_production,private,CrownQuest Operating / Linn Energy,,,,,,,,
+Tallgrass Energy,,Lakewood,CO,US,midstream,pipelines_midstream,private,Blackstone Infrastructure Partners,,,,,,,,
+Antero Resources,AR,Denver,CO,US,upstream,natural_gas,public,,,,,,,,,
+Range Resources,RRC,Fort Worth,TX,US,upstream,natural_gas,public,,,,,,,,,
+CNX Resources,CNX,Canonsburg,PA,US,upstream,natural_gas,public,,,,,,,,,
+Halliburton,HAL,Houston,TX,US,oilfield_services,drilling_evaluation,public,,,,,,,,,
+Schlumberger (SLB),SLB,Houston,TX,US,oilfield_services,drilling_evaluation,public,,,,,,,,,
+Baker Hughes,BKR,Houston,TX,US,oilfield_services,drilling_evaluation,public,,,,,,,,,
+NOV Inc.,NOV,Houston,TX,US,oilfield_services,drilling_equipment,public,,,,,,,,,
+SM Energy,SM,Denver,CO,US,upstream,exploration_production,public,,,,,,,,,
+Permian Resources,PR,Midland,TX,US,upstream,exploration_production,public,,,,,,,,,
+Matador Resources,MTDR,Dallas,TX,US,upstream,exploration_production,public,,,,,,,,,
+Chord Energy,CHRD,Houston,TX,US,upstream,exploration_production,public,,,,,,,,,
+Civitas Resources,CIVI,Denver,CO,US,upstream,exploration_production,public,,,,,,,,,
+Northern Oil and Gas,NOG,Wayzata,MN,US,upstream,nonop_production,public,,,,,,,,,
+Texas Pacific Land,TPL,Dallas,TX,US,midstream,royalty_land,public,,,,,,,,,
+Plains All American Pipeline,PAA,Houston,TX,US,midstream,pipelines_midstream,public,,,,,,,,,
+Western Midstream Partners,WES,The Woodlands,TX,US,midstream,gathering_processing,public,,,,,,,,,
+PBF Energy,PBF,Parsippany,NJ,US,downstream,refining_marketing,public,,,,,,,,,
+Delek US Holdings,DK,Brentwood,TN,US,downstream,refining_marketing,public,,,,,,,,,
+Par Pacific Holdings,PARR,Houston,TX,US,downstream,refining_marketing,public,,,,,,,,,
+CVR Energy,CVI,Sugar Land,TX,US,downstream,refining_marketing,public,Icahn Enterprises (Carl Icahn),,,,,,,,
+Sunoco LP,SUN,Dallas,TX,US,midstream,fuels_distribution,public,,,,,,,,,
+Vital Energy,VTLE,Tulsa,OK,US,upstream,exploration_production,public,,,,,,,,,
+Kosmos Energy,KOS,Dallas,TX,US,upstream,deepwater,public,,,,,,,,,
+Liberty Energy,LBRT,Denver,CO,US,oilfield_services,frac_completions,public,,,,,,,,,
+Weatherford International,WFRD,Houston,TX,US,oilfield_services,drilling_evaluation,public,,,,,,,,,
+ChampionX,CHX,The Woodlands,TX,US,oilfield_services,production_chemicals,public,,,,,,,,,
+Gulfport Energy,GPOR,Oklahoma City,OK,US,upstream,natural_gas,public,,,,,,,,,
+Comstock Resources,CRK,Frisco,TX,US,upstream,natural_gas,public,,,,,,,,,
+Sitio Royalties,STR,Denver,CO,US,midstream,royalty,public,,,,,,,,,
+Viper Energy,VNOM,Midland,TX,US,midstream,royalty,public,,,,,,,,,
+Kimbell Royalty Partners,KRP,Fort Worth,TX,US,midstream,royalty,public,,,,,,,,,
+Granite Ridge Resources,GRNT,Dallas,TX,US,upstream,nonop_production,public,,,,,,,,,
+ProPetro Holding,PUMP,Midland,TX,US,oilfield_services,frac_completions,public,,,,,,,,,
+Berry Corporation,BRY,Dallas,TX,US,upstream,exploration_production,public,,,,,,,,,
+Amplify Energy,AMPY,Houston,TX,US,upstream,exploration_production,public,,,,,,,,,
+Riley Exploration Permian,REPX,Oklahoma City,OK,US,upstream,exploration_production,public,,,,,,,,,
+Ring Energy,REI,Midland,TX,US,upstream,exploration_production,public,,,,,,,,,
+NuStar Energy,NS,San Antonio,TX,US,midstream,pipelines_midstream,public,,,,,,,,,

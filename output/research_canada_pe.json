@@ -1,0 +1,772 @@
+{
+  "research_date": "2026-07-30",
+  "segment": "canada_and_pe",
+  "companies": [
+    {
+      "company_name": "Suncor Energy",
+      "ticker": "SU",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "integrated",
+      "subsector": "integrated_oil",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": "2025",
+      "ebitda_source": "Annual Report",
+      "revenue_most_recent": null,
+      "total_debt": 6337000000,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB+",
+      "rating_agency": "S&P",
+      "notes": "Available lines of credit: $5.219B as of Dec 31, 2025. Syndicated facilities extended to Dec 2028 and Dec 2029.",
+      "facilities": [
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Syndicated Revolving Credit Facility",
+          "facility_size": 5219,
+          "tenor_months": 36,
+          "maturity_date": "2028-12-31",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "2025 Annual Report / Fitch Ratings"
+        }
+      ],
+      "executives": [
+        {
+          "name": "Rich Kruger",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Canadian Natural Resources",
+      "ticker": "CNQ",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "integrated",
+      "subsector": "integrated_oil",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": 14800000000,
+      "ebitda_fiscal_year": "TTM 2025",
+      "ebitda_source": "Yahoo Finance",
+      "revenue_most_recent": 38630000000,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB+",
+      "rating_agency": "S&P",
+      "notes": "$500M RCF extended to June 2027. $2.565B main RCF extended to June 2029. Undrawn total bank facilities: $5,668M. Fully drawn non-revolving term facility: $4,000M.",
+      "facilities": [
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Revolving Syndicated Credit Facility",
+          "facility_size": 2565,
+          "tenor_months": 60,
+          "maturity_date": "2029-06-30",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "2025 Q4 Interim Report / SEC filing"
+        },
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Revolving Credit Facility",
+          "facility_size": 500,
+          "tenor_months": 36,
+          "maturity_date": "2027-06-30",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "2025 Q4 Interim Report"
+        },
+        {
+          "facility_type": "term_loan",
+          "facility_name": "Non-Revolving Term Credit Facility",
+          "facility_size": 4000,
+          "tenor_months": null,
+          "maturity_date": null,
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "2025 Q4 Financial Statements"
+        }
+      ],
+      "executives": [
+        {
+          "name": "Scott Stauth",
+          "title": "President & CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Imperial Oil",
+      "ticker": "IMO",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "integrated",
+      "subsector": "integrated_oil",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "ebitda_source": "",
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "AA-",
+      "rating_agency": "S&P",
+      "notes": "Majority-owned by ExxonMobil (~69%). HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "John Whelan",
+          "title": "Chairman, President & CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Enbridge",
+      "ticker": "ENB",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "ebitda_source": "",
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB+",
+      "rating_agency": "S&P",
+      "notes": "Total credit facilities ~$21.1B. July 2025: renewed $8.8B 364-day extendible (to July 2027), $7.8B 5-year (to July 2030). Subsidiary facilities: Enbridge Gas $2.5B, Enbridge Pipelines $2.0B.",
+      "facilities": [
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "364-Day Extendible Credit Facility",
+          "facility_size": 8800,
+          "tenor_months": 12,
+          "maturity_date": "2027-07-31",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "Q3 2025 Financial Statements"
+        },
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Five-Year Revolving Credit Facility",
+          "facility_size": 7800,
+          "tenor_months": 60,
+          "maturity_date": "2030-07-31",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "Q3 2025 Financial Statements"
+        },
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Enbridge Gas 364-Day Extendible Facility",
+          "facility_size": 2500,
+          "tenor_months": 12,
+          "maturity_date": "2027-07-31",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "Q3 2025 Financial Statements"
+        },
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Enbridge Pipelines 364-Day Extendible Facility",
+          "facility_size": 2000,
+          "tenor_months": 12,
+          "maturity_date": "2027-07-31",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "Q3 2025 Financial Statements"
+        }
+      ],
+      "executives": [
+        {
+          "name": "Greg Ebel",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "TC Energy",
+      "ticker": "TRP",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "ebitda_source": "",
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB+",
+      "rating_agency": "S&P",
+      "notes": "Total committed revolving and demand credit facilities: $11.8B as of Feb 2026.",
+      "facilities": [
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Committed Revolving & Demand Credit Facilities",
+          "facility_size": 11800,
+          "tenor_months": null,
+          "maturity_date": null,
+          "pricing_base": null,
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "SEC Filing / 2025 MD&A"
+        }
+      ],
+      "executives": [
+        {
+          "name": "Fran\u00e7ois Poirier",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Cenovus Energy",
+      "ticker": "CVE",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "integrated",
+      "subsector": "integrated_oil",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "ebitda_source": "",
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB-",
+      "rating_agency": "S&P",
+      "notes": "Committed credit facility: $3.3B tranche maturing Sept 2029 + $2.2B tranche maturing Sept 2028 = $5.5B total. Net debt target: $4.0B.",
+      "facilities": [
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Committed Revolving Credit Facility - Tranche A",
+          "facility_size": 3300,
+          "tenor_months": 36,
+          "maturity_date": "2029-09-19",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "SEC Filing / Q1 2026 MD&A"
+        },
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Committed Revolving Credit Facility - Tranche B",
+          "facility_size": 2200,
+          "tenor_months": 24,
+          "maturity_date": "2028-09-19",
+          "pricing_base": "SOFR",
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "S&P Ratings / SEC Filing"
+        }
+      ],
+      "executives": [
+        {
+          "name": "Jon McKenzie",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Tourmaline Oil",
+      "ticker": "TOU",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Largest natural gas producer in Canada. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Michael Rose",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Arc Resources",
+      "ticker": "ARX",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Largest Montney producer. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Terry Anderson",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Pembina Pipeline",
+      "ticker": "PPL",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB+",
+      "rating_agency": "S&P",
+      "notes": "Major Canadian midstream. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Scott Burrows",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Keyera Corp",
+      "ticker": "KEY",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "midstream",
+      "subsector": "gathering_processing",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "BBB",
+      "rating_agency": "S&P",
+      "notes": "Midstream - gas processing, fractionation. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Dean Setoguchi",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Whitecap Resources",
+      "ticker": "WCP",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Light oil-focused E&P. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Grant Fagerheim",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "PrairieSky Royalty",
+      "ticker": "PSK",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "midstream",
+      "subsector": "royalty",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Largest publicly-traded royalty company in Canada. HQ Calgary, AB. Typically has minimal debt.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Pamela Kazeil",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Vermilion Energy",
+      "ticker": "VET",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "International E&P with Canadian, European, Australian assets. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Dion Hatcher",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Baytex Energy",
+      "ticker": "BTE",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Heavy oil and light oil producer. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Eric Greager",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Peyto Exploration & Development",
+      "ticker": "PEY",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Deep basin natural gas producer. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Jean-Paul Lachance",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "MEG Energy",
+      "ticker": "MEG",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "oil_sands",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Oil sands focused producer. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Darlene Gates",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "NuVista Energy",
+      "ticker": "NVA",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Montney-focused gas & liquids producer. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Mike H. Lawford",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Birchcliff Energy",
+      "ticker": "BIR",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Natural gas & liquids producer. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Jeffery Tonken",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Gibson Energy",
+      "ticker": "GEI",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "rating_agency": "",
+      "notes": "Oil infrastructure / midstream. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Steve Spaulding",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "Secure Energy Services",
+      "ticker": "SES",
+      "headquarters_city": "Calgary",
+      "headquarters_state": "AB",
+      "country": "CA",
+      "sector": "oilfield_services",
+      "subsector": "waste_management",
+      "public_private": "public",
+      "pe_backed": 0,
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Oilfield waste management & environmental services. HQ Calgary, AB.",
+      "facilities": [],
+      "executives": [
+        {
+          "name": "Rene Amirault",
+          "title": "CEO",
+          "office_city": "Calgary",
+          "office_state": "AB",
+          "office_country": "CA"
+        }
+      ]
+    },
+    {
+      "company_name": "CrownRock",
+      "ticker": null,
+      "headquarters_city": "Midland",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "private",
+      "pe_backed": 1,
+      "pe_firm_name": "CrownQuest Operating / Linn Energy",
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "notes": "Private Permian Basin operator. One of the largest private E&P companies. Previously explored IPO. LBO history with Linn Energy (LNN).",
+      "facilities": [],
+      "executives": []
+    },
+    {
+      "company_name": "Tallgrass Energy",
+      "ticker": null,
+      "headquarters_city": "Lakewood",
+      "headquarters_state": "CO",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "private",
+      "pe_backed": 1,
+      "pe_firm_name": "Blackstone Infrastructure Partners",
+      "ebitda_most_recent": null,
+      "ebitda_fiscal_year": null,
+      "revenue_most_recent": null,
+      "total_debt": null,
+      "market_cap": null,
+      "enterprise_value": null,
+      "credit_rating": "",
+      "rating_agency": "",
+      "notes": "Large private midstream company. Owns Pony Express, Rockies Express, REX, and other major pipelines. Acquired by Blackstone in 2020. HQ Lakewood, CO.",
+      "facilities": [],
+      "executives": []
+    }
+  ]
+}

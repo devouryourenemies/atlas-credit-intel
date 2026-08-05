@@ -1,0 +1,628 @@
+{
+  "research_date": "2026-07-30",
+  "segment": "midcap_us",
+  "companies": [
+    {
+      "company_name": "Antero Resources",
+      "ticker": "AR",
+      "headquarters_city": "Denver",
+      "headquarters_state": "CO",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Paul Rady transitioned to Chairman Emeritus Aug 2025. Michael N. Kennedy became CEO.",
+      "facilities": [],
+      "executives": [
+        {"name": "Michael N. Kennedy", "title": "CEO", "office_city": "Denver", "office_state": "CO", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Range Resources",
+      "ticker": "RRC",
+      "headquarters_city": "Fort Worth",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Net debt ~$1.22B. Credit facility $118M. Natural gas producer - Appalachia.",
+      "facilities": [
+        {
+          "facility_type": "revolving_credit",
+          "facility_name": "Credit Facility",
+          "facility_size": 118,
+          "tenor_months": null,
+          "maturity_date": null,
+          "pricing_base": null,
+          "margin_spread_bps": null,
+          "syndication_status": "active",
+          "source": "Q4 2025 Press Release"
+        }
+      ],
+      "executives": [
+        {"name": "Dennis Degner", "title": "CEO", "office_city": "Fort Worth", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "CNX Resources",
+      "ticker": "CNX",
+      "headquarters_city": "Canonsburg",
+      "headquarters_state": "PA",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Appalachian natural gas producer. HQ Canonsburg, PA (Pittsburgh area).",
+      "facilities": [],
+      "executives": [
+        {"name": "Nicholas J. DeIuliis", "title": "CEO", "office_city": "Canonsburg", "office_state": "PA", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Halliburton",
+      "ticker": "HAL",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "drilling_evaluation",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Major oilfield services company. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Jeff Miller", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Schlumberger (SLB)",
+      "ticker": "SLB",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "drilling_evaluation",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Largest oilfield services company globally. US HQ Houston, TX (incorporated in Curaçao).",
+      "facilities": [],
+      "executives": [
+        {"name": "Olivier Le Peuch", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Baker Hughes",
+      "ticker": "BKR",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "drilling_evaluation",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Major OFS company. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Lorenzo Simonelli", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "NOV Inc.",
+      "ticker": "NOV",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "drilling_equipment",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Oilfield equipment manufacturer. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Clay C. Williams", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "SM Energy",
+      "ticker": "SM",
+      "headquarters_city": "Denver",
+      "headquarters_state": "CO",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Mid-cap E&P focused on Permian and Eagle Ford. HQ Denver, CO.",
+      "facilities": [],
+      "executives": [
+        {"name": "Herbert S. Vogel", "title": "CEO", "office_city": "Denver", "office_state": "CO", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Permian Resources",
+      "ticker": "PR",
+      "headquarters_city": "Midland",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Permian Basin pure-play E&P (formed from Colgate Energy and FireBird Energy merger). HQ Midland, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "James Walter", "title": "CEO", "office_city": "Midland", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Matador Resources",
+      "ticker": "MTDR",
+      "headquarters_city": "Dallas",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "E&P focused on Permian and Haynesville. HQ Dallas, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Joseph Wm. Foran", "title": "CEO", "office_city": "Dallas", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Chord Energy",
+      "ticker": "CHRD",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Williston Basin-focused E&P (formerly Oasis Petroleum + Whiting). HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Danny R. Brown", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Civitas Resources",
+      "ticker": "CIVI",
+      "headquarters_city": "Denver",
+      "headquarters_state": "CO",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "DJ Basin-focused E&P (consolidated several Permian/DJ operators). HQ Denver, CO.",
+      "facilities": [],
+      "executives": [
+        {"name": "Chris Doyle", "title": "CEO", "office_city": "Denver", "office_state": "CO", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Northern Oil and Gas",
+      "ticker": "NOG",
+      "headquarters_city": "Wayzata",
+      "headquarters_state": "MN",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "nonop_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Non-operated E&P with positions in Permian, Williston, Appalachia. Unique non-op model. HQ Wayzata, MN.",
+      "facilities": [],
+      "executives": [
+        {"name": "Nicholas O'Grady", "title": "CEO", "office_city": "Wayzata", "office_state": "MN", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Texas Pacific Land",
+      "ticker": "TPL",
+      "headquarters_city": "Dallas",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "royalty_land",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Largest private landowner in Texas. Royalty/land management company. No traditional credit facilities. HQ Dallas, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Tyler Glover", "title": "CEO", "office_city": "Dallas", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Plains All American Pipeline",
+      "ticker": "PAA",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Major crude oil midstream company. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Willie Chiang", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Western Midstream Partners",
+      "ticker": "WES",
+      "headquarters_city": "The Woodlands",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "gathering_processing",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "MLP focused on Permian, DJ Basin, and other basins. HQ The Woodlands, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Michael U. Utsler", "title": "CEO", "office_city": "The Woodlands", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "PBF Energy",
+      "ticker": "PBF",
+      "headquarters_city": "Parsippany",
+      "headquarters_state": "NJ",
+      "country": "US",
+      "sector": "downstream",
+      "subsector": "refining_marketing",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Independent refiner. HQ Parsippany, NJ. Multiple refineries on East Coast, Gulf Coast, Midwest.",
+      "facilities": [],
+      "executives": [
+        {"name": "Thomas Nimbley", "title": "CEO", "office_city": "Parsippany", "office_state": "NJ", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Delek US Holdings",
+      "ticker": "DK",
+      "headquarters_city": "Brentwood",
+      "headquarters_state": "TN",
+      "country": "US",
+      "sector": "downstream",
+      "subsector": "refining_marketing",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Independent refiner with retail fuel network. HQ Brentwood, TN.",
+      "facilities": [],
+      "executives": [
+        {"name": "Avi Elyakim", "title": "CEO", "office_city": "Brentwood", "office_state": "TN", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Par Pacific Holdings",
+      "ticker": "PARR",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "downstream",
+      "subsector": "refining_marketing",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Refiner with operations in Hawaii, Wyoming, Washington, Texas. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "William Pate", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "CVR Energy",
+      "ticker": "CVI",
+      "headquarters_city": "Sugar Land",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "downstream",
+      "subsector": "refining_marketing",
+      "public_private": "public",
+      "pe_backed": 1,
+      "pe_firm_name": "Icahn Enterprises (Carl Icahn)",
+      "notes": "Independent refiner. Majority-owned by Icahn Enterprises. HQ Sugar Land, TX. Two refineries in KS and OK.",
+      "facilities": [],
+      "executives": [
+        {"name": "David L. Lamp", "title": "CEO", "office_city": "Sugar Land", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Sunoco LP",
+      "ticker": "SUN",
+      "headquarters_city": "Dallas",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "fuels_distribution",
+      "public_private": "public",
+      "pe_backed": 0,
+      "pe_firm_name": null,
+      "notes": "Fuel distribution and midstream MLP spun off from Energy Transfer. HQ Dallas, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Joseph Kim", "title": "CEO", "office_city": "Dallas", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Vital Energy",
+      "ticker": "VTLE",
+      "headquarters_city": "Tulsa",
+      "headquarters_state": "OK",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Permian Basin E&P. Formerly Laredo Petroleum. HQ Tulsa, OK.",
+      "facilities": [],
+      "executives": [
+        {"name": "Manuel Manny Zborowski", "title": "CEO", "office_city": "Tulsa", "office_state": "OK", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Kosmos Energy",
+      "ticker": "KOS",
+      "headquarters_city": "Dallas",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "deepwater",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Deepwater E&P focused on West Africa and Gulf of Mexico. HQ Dallas, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Andrew G. Inglis", "title": "CEO", "office_city": "Dallas", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Liberty Energy",
+      "ticker": "LBRT",
+      "headquarters_city": "Denver",
+      "headquarters_state": "CO",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "frac_completions",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Pressure pumping / frac services. HQ Denver, CO.",
+      "facilities": [],
+      "executives": [
+        {"name": "Chris Wright", "title": "CEO", "office_city": "Denver", "office_state": "CO", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Weatherford International",
+      "ticker": "WFRD",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "drilling_evaluation",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "OFS - drilling, evaluation, completions. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Girish K. Saligram", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "ChampionX",
+      "ticker": "CHX",
+      "headquarters_city": "The Woodlands",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "production_chemicals",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Chemicals and production optimization. HQ The Woodlands, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Sivasankaran Soma Somasundaram", "title": "CEO", "office_city": "The Woodlands", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Gulfport Energy",
+      "ticker": "GPOR",
+      "headquarters_city": "Oklahoma City",
+      "headquarters_state": "OK",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Appalachian natural gas producer. HQ Oklahoma City, OK.",
+      "facilities": [],
+      "executives": [
+        {"name": "John K. Reinhart", "title": "CEO", "office_city": "Oklahoma City", "office_state": "OK", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Comstock Resources",
+      "ticker": "CRK",
+      "headquarters_city": "Frisco",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "natural_gas",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Haynesville natural gas producer. HQ Frisco, TX. Majority-owned by Jerry Jones (Dallas Cowboys owner).",
+      "facilities": [],
+      "executives": [
+        {"name": "M. Jay Allison", "title": "CEO", "office_city": "Frisco", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Sitio Royalties",
+      "ticker": "STR",
+      "headquarters_city": "Denver",
+      "headquarters_state": "CO",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "royalty",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Mineral and royalty company. HQ Denver, CO. Formed from merger of Sitio Royalties and Brigham Minerals.",
+      "facilities": [],
+      "executives": [
+        {"name": "Chris L. Conoscenti", "title": "CEO", "office_city": "Denver", "office_state": "CO", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Viper Energy",
+      "ticker": "VNOM",
+      "headquarters_city": "Midland",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "royalty",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Mineral and royalty company - Diamondback Energy's mineral arm. HQ Midland, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Travis D. Stice", "title": "CEO", "office_city": "Midland", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Kimbell Royalty Partners",
+      "ticker": "KRP",
+      "headquarters_city": "Fort Worth",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "royalty",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Mineral and royalty company. HQ Fort Worth, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Robert Ravnaas", "title": "CEO", "office_city": "Fort Worth", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Granite Ridge Resources",
+      "ticker": "GRNT",
+      "headquarters_city": "Dallas",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "nonop_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Non-operated E&P. HQ Dallas, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Tyler Farquharson", "title": "CEO", "office_city": "Dallas", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "ProPetro Holding",
+      "ticker": "PUMP",
+      "headquarters_city": "Midland",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "oilfield_services",
+      "subsector": "frac_completions",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Permian Basin pressure pumping. HQ Midland, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Sam D. Sledge", "title": "CEO", "office_city": "Midland", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Berry Corporation",
+      "ticker": "BRY",
+      "headquarters_city": "Dallas",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "California heavy oil E&P. HQ Dallas, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Arthur T. Smith", "title": "CEO", "office_city": "Dallas", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Amplify Energy",
+      "ticker": "AMPY",
+      "headquarters_city": "Houston",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "E&P with assets in Eagle Ford, Rockies, OK. HQ Houston, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Martyn W. Smiley", "title": "CEO", "office_city": "Houston", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Riley Exploration Permian",
+      "ticker": "REPX",
+      "headquarters_city": "Oklahoma City",
+      "headquarters_state": "OK",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Permian Basin E&P. HQ Oklahoma City, OK.",
+      "facilities": [],
+      "executives": [
+        {"name": "Bobby D. Riley", "title": "CEO", "office_city": "Oklahoma City", "office_state": "OK", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "Ring Energy",
+      "ticker": "REI",
+      "headquarters_city": "Midland",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "upstream",
+      "subsector": "exploration_production",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Permian Basin E&P. HQ Midland, TX.",
+      "facilities": [],
+      "executives": [
+        {"name": "Paul D. McKinney", "title": "CEO", "office_city": "Midland", "office_state": "TX", "office_country": "US"}
+      ]
+    },
+    {
+      "company_name": "NuStar Energy",
+      "ticker": "NS",
+      "headquarters_city": "San Antonio",
+      "headquarters_state": "TX",
+      "country": "US",
+      "sector": "midstream",
+      "subsector": "pipelines_midstream",
+      "public_private": "public",
+      "pe_backed": 0,
+      "notes": "Midstream MLP - pipelines and storage. HQ San Antonio, TX. Recently acquired by Sunoco (SUN).",
+      "facilities": [],
+      "executives": [
+        {"name": "Brad Barron", "title": "CEO", "office_city": "San Antonio", "office_state": "TX", "office_country": "US"}
+      ]
+    }
+  ]
+}
